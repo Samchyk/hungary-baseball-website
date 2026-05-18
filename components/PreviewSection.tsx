@@ -92,8 +92,8 @@ export default function PreviewSection({
             )}
           </div>
 
-          <div className={`hidden lg:block ${reverse ? 'lg:order-1' : ''} slide-in-right hover:scale-105 transition-transform duration-500`}>
-            <div className="relative h-96 rounded-2xl border border-white/5 overflow-hidden shadow-2xl group">
+          <div className={`block ${reverse ? 'lg:order-1' : ''} slide-in-right lg:hover:scale-105 transition-transform duration-500`}>
+            <div className="relative h-56 sm:h-72 lg:h-96 rounded-2xl border border-white/5 overflow-hidden shadow-2xl group">
               <img
                 src={imageUrl}
                 alt={title}

@@ -34,8 +34,8 @@ export default function HeroSection() {
             </div>
           </div>
 
-          <div className="hidden lg:flex items-center justify-center slide-in-right">
-            <div className="relative w-full h-96">
+          <div className="flex items-center justify-center slide-in-right order-first lg:order-last">
+            <div className="relative w-full h-64 sm:h-80 lg:h-96">
               <img
                 src="/images/baseball-hero.jpg"
                 alt="Baseball player"
