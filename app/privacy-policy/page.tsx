@@ -3,8 +3,8 @@ import Footer from '@/components/Footer'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Adatvédelmi szabályzat | Hungary Rugby',
-  description: 'A Hungary Rugby adatvédelmi szabályzata.',
+  title: 'Adatvédelmi szabályzat | Hungary Baseball',
+  description: 'A Hungary Baseball adatvédelmi szabályzata.',
 }
 
 export default function PrivacyPolicyPage() {
@@ -32,7 +32,7 @@ export default function PrivacyPolicyPage() {
           <div className="container-base max-w-4xl mx-auto prose prose-invert max-w-none text-foreground/80">
             <h2 className="text-2xl font-bold text-foreground mb-4">1. Bevezetés</h2>
             <p className="mb-6 leading-relaxed">
-              A Hungary Rugby (így tovább: a "weboldal") fontosnak tartja a felhasználó adatait az a biztonságát. Ez az adatvédelmi szabályzat megmagyarázza, hogy hogyan gyűjtjük, használjuk és védjük az adatokat.
+              A Hungary Baseball (így tovább: a "weboldal") fontosnak tartja a felhasználó adatait az a biztonságát. Ez az adatvédelmi szabályzat megmagyarázza, hogy hogyan gyűjtjük, használjuk és védjük az adatokat.
             </p>
 
             <h2 className="text-2xl font-bold text-foreground mb-4 mt-8">2. Szerzett Adatok</h2>

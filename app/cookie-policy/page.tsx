@@ -3,8 +3,8 @@ import Footer from '@/components/Footer'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Cookie Szabályzat | Hungary Rugby',
-  description: 'A Hungary Rugby cookie szabályzata.',
+  title: 'Cookie Szabályzat | Hungary Baseball',
+  description: 'A Hungary Baseball cookie szabályzata.',
 }
 
 export default function CookiePolicyPage() {

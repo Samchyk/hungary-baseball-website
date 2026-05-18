@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
   }
 
   return {
-    title: `${post.title} | Hungary Rugby Blog`,
+    title: `${post.title} | Hungary Baseball Blog`,
     description: post.excerpt,
   }
 }

@@ -73,7 +73,7 @@ export default function Footer() {
 
         <div className="border-t border-white/10 pt-8">
           <p className="text-xs text-foreground/40 text-center">
-            © {new Date().getFullYear()} Hungary Rugby. Minden jog fenntartva.
+            © {new Date().getFullYear()} Hungary Baseball. Minden jog fenntartva.
           </p>
           <p>contact@hungarybaseball.com</p>
         </div>
